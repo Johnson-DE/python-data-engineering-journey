@@ -1,6 +1,4 @@
-# Hi, I'm Johnson
-
-## Aspiring Data Engineer
+# Aspiring Data Engineer
 
 Currently building my skills in Python, SQL, AWS, and Data Engineering while following the Data Engineering Roadmap 2026.
 
