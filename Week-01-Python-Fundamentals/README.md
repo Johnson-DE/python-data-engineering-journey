@@ -1,4 +1,4 @@
-# Week 1 - Python Basics & Data Structures
+# Week 1 - Python Fundamentals
 
 ## Topics Covered
 
@@ -13,17 +13,39 @@
 - Stack
 - Queue
 - Exception Handling
-- Big O Notation
 
 ## Practice Programs
 
-- Calculator
+### Foundation
+- User Input
+- Average Calculation
+- Product Cost Calculation
+
+### Conditions
+- Even/Odd Checker
+- Grade System
 - Login Validation
-- CSV Processing
-- JSON Manipulation
-- Stack Operations
-- Queue Operations
+
+### Loops
+- Multiplication Table
+- Sum of Numbers
+- Count Even Numbers
+
+### Data Structures
+- Lists
+- Dictionaries
+- Sets
+- Stack
+- Queue
+
+### File Processing
+- TXT File Handling
+- CSV File Handling
+- JSON Processing
+
+### Mini Project
+- Calculator Application
 
 ## Goal
 
-Building strong Python foundations for Data Engineering.
+Building strong Python fundamentals for Data Engineering.
